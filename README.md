@@ -16,5 +16,25 @@ the average temperature of the year is 33.166666666666664°C
 (2) Popcorn Maker
 <br>
 ->This program does not consist of that much complex coding . it just deals with java.util.Scanner and asking specific questions like required temperature and time , number of packets , etc.
+<br>
+<br>
+(3) Body Mass Index checker
+<br>
+->The program starts with a welcome note and asking the user to provide his height and weight. Once thats provided, for finding the BMI, the height is first squared and printed in a way that
+<br>
+=>System.out.println("Youre BMI is ->" + weight / square);
+<br>
+<br>
+Then the height and weight are converted into feet and pound respectively below
+<br>
+=>double feet = height * 0.3048 * 10;
+<br>
+=>double pounds = weight * 0.4535 * 10;
+<br>
+<br>
+After all this, an if condition is being added based on what BMI the user has, he or she will be notified if their healthy, underweight, or overweight.
+<br>
+And finally the program prints users height in both feet and meter, and weight in kilograms and pounds.
+
 
 
