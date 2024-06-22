@@ -35,6 +35,11 @@ Then the height and weight are converted into feet and pound respectively below
 After all this, an if condition is being added based on what BMI the user has, he or she will be notified if their healthy, underweight, or overweight.
 <br>
 And finally the program prints users height in both feet and meter, and weight in kilograms and pounds.
+<br>
+<br>
+(4)Max, Min, Mean Marks of students
+<br>
+=>The Java program collects and analyzes lab scores from a specified number of students. It begins by prompting the user to input the number of students, then dynamically allocates an array to store their scores. The user is asked to enter each student's score, which the program then uses to calculate key metrics: the lowest score, the highest score, and the mean score. Finally, it displays these results, providing a basic statistical overview of the entered scores.
 
 
 
